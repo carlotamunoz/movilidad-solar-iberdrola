@@ -1,4 +1,4 @@
-# movilidad-solar-iberdrola# ☀️ Movilidad Solar para Cooltra e Iberdrola
+☀️ Movilidad Solar para Cooltra e Iberdrola
 
 Este proyecto plantea una propuesta innovadora y sostenible para recargar la flota de motos eléctricas de **Cooltra** mediante **energía solar**, con el respaldo de **Iberdrola** como proveedor energético.
 
