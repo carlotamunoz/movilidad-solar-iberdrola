@@ -68,5 +68,22 @@ El proyecto incluye:
 **Carlota Muñoz de Luna Eusebio**  
 Estudiante de Ingeniería y Sistemas de Datos  
 
-
+## bibliografía
+ Generador de Precios (s.f.), "IEB005: Estación de recarga de bicicletas", Generador de Precios,
+ [https://generadordeprecios.info/obra_nueva/Instalaciones/Electricas/Recarga_de_vehiculos_electricos/IEB005
+ _Estacion_de_recarga_de_bicicletas___0_1_0_0_0_0_0_0_0.html.]
+  Idealista
+ (2021),
+ "¿Cuánto cuesta poner paneles solares en casa?",
+ Idealista, [https://www.idealista.com/news/inmobiliario/vivienda/2021/02/22/789196-cuanto-cuesta-poner-paneles-solares-en-casa.]
+ Open-Meteo (s.f.), "Open-Meteo", Open-Meteo, [https://open-meteo.com/].
+ OSRM (2023), "OSRM API Documentation", Project OSRM, `[https://project-osrm.org/docs/v5.24.0/api/].
+ NREL(s.f.), "PVWatts Calculator", PVWatts, [https://pvwatts.nrel.gov/].
+  Selectra
+ (2023),
+ "Precio de excedentes en [https://selectra.es/autoconsumo/info/tarifas#precio-excedentes-autoconsumo]
+  Elizondo, M. (2021, 10 mayo). Iberdrola, Cooltra e Inetum cierran una alianza para la recarga de vehículos eléctricos. El
+ Español.
+ BiciMAD. Datos de los itinerarios de las bicicletas eléctricas - Portal de datos abiertos del Ayuntamiento de Madrid. (s. f.)
+ 
 
