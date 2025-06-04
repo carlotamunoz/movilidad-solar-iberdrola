@@ -68,7 +68,9 @@ El proyecto incluye:
 **Carlota Muñoz de Luna Eusebio**  
 Estudiante de Ingeniería y Sistemas de Datos  
 
-## bibliografía
+---
+## Bibliografía
+
  Generador de Precios (s.f.), "IEB005: Estación de recarga de bicicletas", Generador de Precios,
  [https://generadordeprecios.info/obra_nueva/Instalaciones/Electricas/Recarga_de_vehiculos_electricos/IEB005
  _Estacion_de_recarga_de_bicicletas___0_1_0_0_0_0_0_0_0.html.]
